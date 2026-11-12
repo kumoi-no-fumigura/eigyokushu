@@ -37,7 +37,7 @@
    "pages": ""
   }
  ],
- "status": "未校正",
+ "status": "下校正済み",
  "license": {
   "text": "CC0 1.0"
  },
@@ -125,6 +125,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 9,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "nijl-eigyokushu",
   "work": "瑩玉集",
@@ -137,7 +141,7 @@
   "blocks": 9,
   "chars": 3141,
   "poems": 0,
-  "yaku": 0,
+  "yaku": 9,
   "editions": 1,
   "updated": "2026-10-30",
   "updated_at": "2026-10-30T15:44:33+09:00"
